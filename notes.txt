@@ -1,0 +1,7 @@
+1) To start node app:
+
+node myfirst.js
+
+2) To start node app in dev mode to monitor and react to changes:
+
+nodemon myfirst.js
