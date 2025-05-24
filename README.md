@@ -1,11 +1,11 @@
-# nodejs practice repository
+# simple nodejs app
 
-This repository is a basic nodejs example setup.
+This repository is a simple nodejs app for me to practice and use for reference as an example.
 
 ## Project Structure
 
 - README.md : this README file
-- my_modules/ L modules that I created
+- my_modules/ : modules that I created
     - mydatemodule.js : a module I created to return Date/Time
 - myfirst.js : the main application
 - node_modules/ : (do not commit) generated Node modules (eg: npm install upper-case)
@@ -14,11 +14,12 @@ This repository is a basic nodejs example setup.
 
 ## Requirements
 
-Requires Node.js
+Requires Node.js from https://nodejs.org/
 
 ## Installing the Application
 
 1. ** clone the git repository **
+
 git clone https://github.com/kmeixner/docker_nodejs.git
 
 2. ** install dependencies (node modules) **
