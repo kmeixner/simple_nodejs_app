@@ -1,5 +1,5 @@
 var http = require('http');
-var dt = require('./mydatemodule'); // date module I made
+var dt = require('./my_modules/mydatemodule'); // date module I made
 var uc = require('upper-case'); // node module via "npm install upper-case"
 
 http.createServer(function (req, res) {
