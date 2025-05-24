@@ -31,15 +31,16 @@ npm install upper-case
 
 a) Regular Mode:
 
-    node myfirst.js
+    node main.js
 
 b) Dev Mode (will sense changes and update)
 
-    nodemon myfirst.js
+    nodemon main.js
 
 ## API Endpoints
 
-TO DO
+The backend server has the following API endpoint:
+- `GET /`: Returns a message about the date and time and HELLO WORLD`.
 
 ## Stopping the Application
 
