@@ -21,9 +21,9 @@ Requires Node.js
 1. ** clone the git repository **
 git clone https://github.com/kmeixner/docker_nodejs.git
 
-2. ** install upper-case module **
+2. ** install dependencies (node modules) **
 
-npm install upper-case
+npm install
 
 ## Running the Application
 
